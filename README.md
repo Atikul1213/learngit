@@ -21,3 +21,17 @@ I am student at DUET.
 
 <i>This is a italic text</i>
 _This is a  italic text_
+__This is a Strong and Bold__
+<del>this is </del>
+~~this is ~~
+
+
+`this is inline`
+`<h1>Bangladesh</h1>`
+
+
+
+
+
+
+
