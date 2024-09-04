@@ -42,5 +42,12 @@ you can write any number of line.
 
 
 
+```javascript
+console.log("this is the javascript code");
+document.getElementById("querySelector");
+
+```
+
+
 
 
