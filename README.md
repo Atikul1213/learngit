@@ -48,6 +48,11 @@ document.getElementById("querySelector");
 
 ```
 
+```csss
+head{
+  background-color: green;
+}
 
+```
 
 
