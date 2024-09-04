@@ -4,63 +4,151 @@ Add new line of code for test.
 Yet another line of code.
 update readme
 add another line of code
+<!--markdown tutorial-->
 
-<!--  markdown tutorial -->
-Atikul Islam Normal text <br/>
-I am student at DUET.
+Atikul Islam<br/>
+This is second line
 
 ---
-# Atikul Islam 
+
+# Atikul Islam
+
 ## Atikul Islam
+
 ### Atikul Islam
-#### Atikul Islam 
+
+#### Atikul Islam
+
 ##### Atikul Islam
+
 ###### Atikul Islam
 
-<p>This is Atikul Islam. I am 24 years old. </p>
+<p>This is Atikul islam. I am 24 years old. I just finished my uderdrate from DUET</p>
 
-<i>This is a italic text</i>
-_This is a  italic text_
-__This is a Strong and Bold__
-<del>this is </del>
-~~this is ~~
-
-
-`this is inline`
 <br/>
-`<h1>Bangladesh</h1>`
+
+### italic text
+
+_This is an italic text_
+
+<br/>
+
+### bold text
+
+**This is an italic text**
+
+<br/>
+
+### Strikethorugh
+
+~~this is~~
+
+<br/>
+
+### single line code
+
+`This is inline`  
+`<h1> Bangladesh </h1>`
+
+<br/>
+
+### Multiple line code
+
+```
+  <html>
+  <head> </head>
+  <body> </body>
+  </html>
+```
 
 ```html
 <html>
-  <head></head>
-<body></body>
+  <head> </head>
+  <body></body>
 </html>
-This is the multiline inline code section.<br/>
-you can write any number of line.
-
 ```
 
-
-
-```javascript
-console.log("this is the javascript code");
-document.getElementById("querySelector");
-
-```
-
-```csss
-head{
+```css
+head {
   background-color: green;
 }
-
 ```
 
+```javascript
+console.log("hello");
+```
 
-1. Iteam1
-2. Iteam2
-  2.1 Iteam 2.1
-  2.2  Iteam 2.2
-3. Iteam3
+<br/>
+
+### Ordered List
+
+1. Item1
+2. Item2
+   1. Item1.1
+   2. Item1.2
+3. Item3
+
+<br/>
+
+### Unordered List
+
+- item1
+  - item1.1
+  - item1.2
+- item2
+- item3
+
+<br/>
+
+### Task List
+
+- [x] Task1
+- [x] Task1
+- [] Task1
+
+<br/>
+
+### automatic link
+
+http://www.facebook.com
+
+### disable link
+
+`http://www.facebook.com`
+
+### markdown link sytax
+
+[facebook](http://www.facebook.com)
+
+### markdown link sytax
+
+[facebook][websitelink]
+[facebook][facebooklink]
+
+<br/>
+
+### image sytax
+
+<!-- ![profile](./images/me.jpg) -->
+<img src="./images/me.JPG" width="400" title="profile image"/>
+😊
+
+<br/>
+
+### table sytax
+
+| Name         | Email                  |
+| ------------ | ---------------------- |
+| Atikul Islam | Text is here           |
+| Atikul Islam | atikul@gmail.com |
+| Atikul Islam | Text is here           |
+
+<!-- all link is here -->
+
+[websitelink]: http://www.google.com.com
+[facebooklink]: https://www.facebook.com/atikul
+
+
 
 
 
