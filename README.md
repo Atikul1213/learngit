@@ -27,9 +27,18 @@ __This is a Strong and Bold__
 
 
 `this is inline`
+<br/>
 `<h1>Bangladesh</h1>`
 
+```html
+<html>
+  <head></head>
+<body></body>
+</html>
+This is the multiline inline code section.<br/>
+you can write any number of line.
 
+```
 
 
 
